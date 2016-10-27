@@ -1,0 +1,13 @@
+#include <string>
+#include <iostream>
+#include <vector>
+using namespace std;
+bool isPal(string s){
+
+}
+int main (){
+	string s;
+	cin>>s;
+	cout<<s;
+	return 0;
+}
